@@ -1,0 +1,108 @@
+License request failed for feature
+
+Requesting PROE_SSQ ...
+d:\software\Adobe\PTC Creo 5.0\_SolidSQUAD_\ptc_licfile.dat: (-8) Invalid (inconsistent) license key.
+
+Displaying status for license file: d:\software\Adobe\PTC Creo 5.0\_SolidSQUAD_\ptc_licfile.dat
+License Server is UP: `
+
+  Warning (-3): No license server system for this feature.
+There is a license server manager/vendor daemon running, but it's for
+other vendors.
+Feature:       PROE_SSQ
+License path:  d:\software\Adobe\PTC Creo 5.0\_SolidSQUAD_\ptc_licfile.dat;
+FLEXnet Licensing error:-3,278.  System Error: 22 "Invalid argument"
+For further information, refer to the FLEXnet Licensing End User Guide,
+available at "www.macrovision.com".
+
+                       License    In Use   Free   Version    Expire Date        SCN 
+                       -------    ------   ----   -------    -----------       -----
+                      PROE_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                MECBASICUI_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    MECBASICUI       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+               MECBASICENG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                MECSTRUCUI_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    MECSTRUCUI       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+               MECSTRUCENG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                  MECMOTUI_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 MECMOTENG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                MECTHERMUI_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    MECTHERMUI       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+               MECTHERMENG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   MECTHERMENG       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+               MECINTERFCE_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                MECTIREMOD_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                     MECUG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                  MECEQRUN_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   2DGS-OA_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                WEBPUBLISH_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                WEBPUBLISH_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   FLYTHRU_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 FLYPLUGIN_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 FLYVIEWER_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   CONCEPT_SSQ       Uncounted       5.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                PROPACKENG_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 PROPACKUI_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    DS_MANAGER       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                DS_MANAGER-REP       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    DS_SERVICE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 PROETRAIN_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           MOCKUPCONVERTER_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    MOCKUP_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 MODELVIEW_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                     PVIEW_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                RSDESIGNER_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   TMSINDA_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                     InterComm       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    EDAconduit       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                  EDAconnector       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                       DEPOCAM       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 Pro/TOOLMAKER       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+      ProductView_ECAD_Compare       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   VERICUT_SSQ       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+          ProductView_Validate       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+             MATHCAD_BETA_SITE       Uncounted      16.0         None       2A154191 Locked to: ANY
+              ILINK_CLIENT_200       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           ILINK_TK_ACCESS_200       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                       ISODRAW       Uncounted       7.1         None       777777777 Locked to: B0-25-AA-1A-26-D0
+          IsoDraw_3D_Extension       Uncounted       7.1         None       777777777 Locked to: B0-25-AA-1A-26-D0
+                    IsoCompose       Uncounted       7.1         None       777777777 Locked to: B0-25-AA-1A-26-D0
+                       mathcad       Uncounted      15.0         None       Internal Use Only Locked to: 
+                MATHCAD_IMPROC       Uncounted      15.000       None         Locked to: 
+              MATHCAD_DATAPACK       Uncounted      15.000       None         Locked to: 
+                MATHCAD_SIGNAL       Uncounted      15.000       None         Locked to: 
+              MATHCAD_WAVELETS       Uncounted      15.000       None         Locked to: 
+                       ELEMENT       Uncounted       7.1         None       777777777 Locked to: B0-25-AA-1A-26-D0
+                     PVMCADPRO       Uncounted      33.0         None       Internal Use Only Locked to: B0-25-AA-1A-26-D0
+      ProductView_Professional       Uncounted      33.0         None       Internal Use Only Locked to: B0-25-AA-1A-26-D0
+                     PVECADPRO       Uncounted      33.0         None       Internal Use Only Locked to: B0-25-AA-1A-26-D0
+                PVINTERFERENCE       Uncounted      33.0         None         Locked to: B0-25-AA-1A-26-D0
+                   PVANIMATION       Uncounted      33.0         None         Locked to: B0-25-AA-1A-26-D0
+                PVCOMPARE_ECAD       Uncounted      33.0         None         Locked to: B0-25-AA-1A-26-D0
+                   CREOSIM_SSQ       Uncounted      33.0         None       NONE Locked to: B0-25-AA-1A-26-D0
+                   CREOPMA_SSQ       Uncounted      33.0         None       NONE Locked to: B0-25-AA-1A-26-D0
+                   CREODMA_SSQ       Uncounted      33.0         None       NONE Locked to: B0-25-AA-1A-26-D0
+                   CREOLAY_SSQ       Uncounted      33.0         None       NONE Locked to: B0-25-AA-1A-26-D0
+            MECBASICUI_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           MECBASICENG_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+            MECSTRUCUI_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           MECSTRUCENG_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+              MECMOTUI_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+             MECMOTENG_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+            MECTHERMUI_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           MECTHERMENG_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+           MECINTERFCE_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+            MECTIREMOD_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                 MECUG_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+              MECEQRUN_LICENSE       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                   MECEQRUN_EQ       Uncounted      33.0     30-jun-2011    NONE Locked to: B0-25-AA-1A-26-D0
+            CREOILLUS_STANDARD       Uncounted       2.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                    CREOOPTMOD       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+             CREOSCHEM_License       Uncounted      33.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                         10125       Uncounted      34.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+                         10126       Uncounted      34.0         None       07071982 Locked to: B0-25-AA-1A-26-D0
+
+
+
+ Option Chinese_Translation not ordered, please contact your sales representative.
+ LANG being reset to USASCII
